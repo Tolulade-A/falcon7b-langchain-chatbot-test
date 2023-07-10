@@ -5,4 +5,4 @@ A conversational chatbot using Falcon 7b instruct model &amp; Creating a questio
 
 Video guide: https://youtu.be/s42SiJavjtc 
 
-Reference: (Vilson Rodrigues) falcon 7b instruct sharded[https://huggingface.co/vilsonrodrigues/falcon-7b-instruct-sharded -reference]
+Reference: (Vilson Rodrigues)[https://huggingface.co/vilsonrodrigues/falcon-7b-instruct-sharded -reference] falcon 7b instruct sharded
